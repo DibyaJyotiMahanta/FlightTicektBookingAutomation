@@ -1,4 +1,3 @@
-```markdown
 # ✈️ Indigo Flight Booking Automation with Selenium
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -150,11 +149,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ### 💻 Author
 
@@ -167,4 +161,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ### ❤️ Acknowledgements
 
 Thanks to the Selenium and Indigo teams for their tools and platforms, which made this project possible!
-```
