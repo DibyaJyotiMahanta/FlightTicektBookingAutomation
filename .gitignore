@@ -1,0 +1,65 @@
+# Maven target directory (build artifacts)
+target/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Dependency directory
+**/dependency-reduced-pom.xml
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains Rider specific files
+.idea/
+*.ipr
+*.iws
+*.iml
+.idea/
+
+# Visual Studio Code specific files
+.vscode/
+
+# Node/npm
+node_modules/
+
+# Build output
+target/
+dist/
+
+# Gradle-specific cache
+.gradle/
+build/
+
+# System backups or temporary files
+*.bak
+*.swp
+*.swo
+*~
